@@ -291,10 +291,10 @@
   resolved "https://registry.yarnpkg.com/@highlightjs/cdn-assets/-/cdn-assets-10.6.0.tgz#ec1404662cd20ed3de4e918d952f01af6350d5d0"
   integrity sha512-u1nkZi2HRsZ3FuvnafUxhv6Bk3tyXboG4F0SE+QQJk+GhAxRQaENPMdZ6zVVQg6Vsv9r23VyWJLo4Vnw72NIxQ==
 
-"@json-editor/json-editor@^2.5.2":
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/@json-editor/json-editor/-/json-editor-2.5.2.tgz#d6f348d7e2f5bf9ccf2e3b34f637143674265e7f"
-  integrity sha512-OqrPtRw8FM2mSZbAFFvvxW6j8JvXCoQbhMgSiryhmcoByh3tQk+PuhK+2+bk9K/zn9PAt9KQsAiSc9sv6WIr/A==
+"@json-editor/json-editor@^2.5.4":
+  version "2.5.4"
+  resolved "https://registry.yarnpkg.com/@json-editor/json-editor/-/json-editor-2.5.4.tgz#ec17f0187054e2e5564f0b543eaa7bd260411457"
+  integrity sha512-P1T7ixZ1vaS5pdQlkaLXH0B8f2AQOpHEOE3oKjMcQaLHkdGHEc225sknbRk+RLNUeG/zvCuMGUaxbE5WPPzAXg==
   dependencies:
     core-js "^3.6.5"
 
