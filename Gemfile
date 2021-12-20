@@ -71,7 +71,7 @@ gem 'discourse-fonts'
 
 gem 'barber'
 
-gem 'message_bus'
+gem 'message_bus', '>= 3.3.7'
 
 gem 'rails_multisite'
 
