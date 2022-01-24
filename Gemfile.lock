@@ -343,7 +343,7 @@ GEM
       msgpack (>= 0.4.3)
       optimist (>= 3.0.0)
     rchardet (1.8.0)
-    redis (4.4.0)
+    redis (4.5.1)
     redis-namespace (1.8.1)
       redis (>= 3.0.4)
     regexp_parser (2.1.1)
@@ -426,7 +426,7 @@ GEM
       activesupport (>= 3.1)
     shoulda-matchers (5.0.0)
       activesupport (>= 5.2.0)
-    sidekiq (6.2.1)
+    sidekiq (6.4.0)
       connection_pool (>= 2.2.2)
       rack (~> 2.0)
       redis (>= 4.2.0)
@@ -541,7 +541,7 @@ DEPENDENCIES
   message_bus
   mini_mime
   mini_racer
-  mini_scheduler
+  mini_scheduler (>= 0.13.0)
   mini_sql
   mini_suffix
   minitest
@@ -592,7 +592,7 @@ DEPENDENCIES
   sassc-rails
   seed-fu
   shoulda-matchers
-  sidekiq
+  sidekiq (>= 6.4.0)
   simplecov
   sprockets (= 3.7.2)
   sprockets-rails
@@ -609,4 +609,4 @@ DEPENDENCIES
   yaml-lint
 
 BUNDLED WITH
-   2.2.19
+   2.1.4
