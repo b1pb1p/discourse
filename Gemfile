@@ -123,7 +123,7 @@ gem 'mini_racer'
 
 gem 'highline', require: false
 
-gem 'rack'
+gem 'rack', '>= 2.2.3.1'
 
 gem 'rack-protection' # security
 gem 'cbor', require: false
